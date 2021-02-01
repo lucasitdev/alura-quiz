@@ -1,39 +1,42 @@
 {
-    "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "bg": "https://i.ibb.co/Mcz1KQ6/castelo-1.jpg",
+    "title": "Quiz Disneyland criado na Imersão React da Alura",
+    "description": "Vamos ver se você é um(a) fã do fantástico mundo da Disney!!",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://media.giphy.com/media/d8SMqAtm3D9bYfOtcs/giphy.gif",
+        "title": "Quando foi inaugurado o primeiro parque da Disneyland?",
+        "description": "Vamos ver se você é fã de verdade!!",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Em 1942, durante a Segunda Guerra Mundial.",
+          "Em 1935, com o sucesso do Mickey Mouse.",
+          "Em 1955, junto com o sucesso de A Dama e o Vagabundo.",
+          "Em 1950, com o parque sendo criado junto com o fime A Cinderela."
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://media.giphy.com/media/cFSbwZr4i0hVe/giphy.gif",
+        "title": "Quando foi fundada a The Walt Disney Company?",
         "description": "Faz tempo em haha",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "Junto com o primeiro curta animado do Mickey Mouse, no ano de 1928.",
+          "No ano de 1923, pelos irmãos Walt Disney e Roy Disney.",
+          "No ano de 1923, por Walt Disney.",
+          "Em 1927, junto com a animação Oswaldo o Coelho Sortudo, feito por Walt Disney"
         ]
-      }
+      }      
     ],
     "external": [
-      ""
+      "https://quiz-valorant.johnatanivini.vercel.app/"
+      
     ],
     "theme": {
       "colors": {
-        "primary": "#0d47a1",
-        "secondary": "#29b6f6",
-        "mainBg": "#171B35",
+        "primary": "#ff80ab",
+        "secondary": "#ff80ab",
+        "mainBg": "#4a148c",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
